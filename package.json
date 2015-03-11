@@ -14,7 +14,7 @@
     "gulp-concat": "^2.5.2",
     "gulp-connect": "^2.2.0",
     "gulp-for-compass": "0.0.2",
-    "gulp-imagemin": "^2.2.1",
+   
     "gulp-inject": "^1.2.0",
     "gulp-jshint": "^1.9.2",
     "gulp-livereload": "^3.8.0",
@@ -28,7 +28,7 @@
     "gulp-uglify": "^1.1.0",
     "gulp-util": "^3.0.4",
     "http-server": "^0.6.1",
-    "imagemin-pngquant": "^4.0.0",
+    
     "karma": "^0.12.16",
     "karma-chrome-launcher": "^0.1.4",
     "karma-jasmine": "^0.1.5",
